@@ -1,6 +1,6 @@
 @extends('backend.layouts.master')
 
-@section('title',FashionHub || Banner Create')
+@section('title', 'FashionHub || Banner Create')
 
 @section('main-content')
 
