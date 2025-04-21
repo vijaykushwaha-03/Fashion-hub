@@ -381,7 +381,7 @@
 </section>
 <!-- End Shop Services Area -->
 
-@include('frontend.layouts.newsletter')
+<!-- @include('frontend.layouts.newsletter') -->
 
 <!-- Modal -->
 @if($product_lists)
